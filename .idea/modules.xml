@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaLesson/JavaLesson.iml" filepath="$PROJECT_DIR$/JavaLesson/JavaLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Patika-Homework.iml" filepath="$PROJECT_DIR$/.idea/Patika-Homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaLesson/java-hw-1/java-hw-1.iml" filepath="$PROJECT_DIR$/JavaLesson/java-hw-1/java-hw-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transfermarkt/Transfermarkt.iml" filepath="$PROJECT_DIR$/Transfermarkt/Transfermarkt.iml" />
     </modules>
   </component>
 </project>
