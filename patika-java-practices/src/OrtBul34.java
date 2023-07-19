@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CiftBul {
+public class OrtBul34 {
    /*Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 
    3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız. */
    public static void main(String[] args) {
