@@ -10,5 +10,12 @@ public class Hipotenus {
         int cevre=a+b+c;
         double alan=Math.sqrt(cevre*(cevre-a)*(cevre-b)*(cevre-c));
         System.out.println(alan);
+        show();
     }
+    static void show()
+    {
+        System.out.println("Show metodu..");
+        return;
+    }
+
 }
