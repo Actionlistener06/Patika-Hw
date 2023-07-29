@@ -1,4 +1,5 @@
 import main.CourseGrade;
+import main.GenerateTranscript;
 import main.Transcript;
 import util.Grade;
 import util.GradeTest;
@@ -26,6 +27,10 @@ public class Main {
 
         System.out.print(transcript);
         System.out.println(course1);
+
+        GenerateTranscript generateTranscript = new GenerateTranscript();
+        generateTranscript.takeInputFromUser();
+        generateTranscript.takeInputFromFile();
     }
 
 }

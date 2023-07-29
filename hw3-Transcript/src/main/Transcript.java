@@ -58,7 +58,8 @@ public class Transcript {
     public void setCourseGrades(ArrayList<CourseGrade> courseGrades) {
         if(courseGrades!=null){
         this.courseGrades = courseGrades;
-    }}
+        }
+    }
 
     public double getGPA() {
         return GPA;
@@ -66,7 +67,7 @@ public class Transcript {
 
     public void setGPA(double GPA) {
         if(GPA>=0.0 && GPA<=4.0){
-        this.GPA = GPA;
-    }else System.out.println("Invalid GPA");
+            this.GPA = GPA;
+        }else System.out.println("Invalid GPA");
     }
 }
